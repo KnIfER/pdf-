@@ -4,7 +4,7 @@ simple python pdf generator that convert a sheet of new words into a pdf.</br>
 pdfactory_book.py——脚本。</br>
 favorites.txt——从安卓端bluedict导出的单词本。</br>
 
-My ultimate goal is to run the script on android itself,via Qpython.\<br> 
+My ultimate goal is to run the script on android itself,via Qpython.</br>
 Sadly the code here surpport only english words,and Chinese character failed to display on the final pdf.</br>
 
 Result:</br> 
