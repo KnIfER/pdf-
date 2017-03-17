@@ -8,4 +8,4 @@ My ultimate goal is to run the script on android itself,via Qpython.
 Sadly the code here surpport only english words,and Chinese character failed to display on the final pdf.
 
 Result:
-![image](https://github.com/knziha/pdf-/screenshot/捕获.PNG)
+![image](https://github.com/KnIfER/pdf-/raw/master/screenshot/捕获.PNG)
