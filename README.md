@@ -9,3 +9,8 @@ Sadly the code here surpport only english words,and Chinese character failed to 
 
 Result:
 ![image](https://github.com/KnIfER/pdf-/raw/master/screenshot/捕获.PNG)
+
+links:
+https://blog.idrsolutions.com/2010/10/make-your-own-pdf-file-part-4-hello-world-pdf/
+https://www.zhihu.com/question/57245075
+
