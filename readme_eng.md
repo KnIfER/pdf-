@@ -20,4 +20,5 @@ Install:
 now you should be able to start a console via Qpython,and import reportlab without errors.</br>
 `4.`copy **test_multibyte_chs2.py** as well as **facorites.txt** to:"(internal sdcard)/org.qpython.qpy/scripts/".</br>
 `5.`run test_multibyte_chs2.py on App Qpython through program menu.</br>
-(change the directory"/storage/emulated/0/org.qpython.qpy/scripts/favorites.txt"and"/storage/emulated/0/org.qpython.qpy/scripts/rp2.pdf"in the file if necessary.)
+</br></br>
+(change the directory"/storage/emulated/0/org.qpython.qpy/scripts/favorites.txt"and"/storage/emulated/0/org.qpython.qpy/scripts/rp2.pdf"in the script if necessary.)
