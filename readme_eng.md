@@ -5,7 +5,7 @@ simple python pdf generator that convert a sheet of new words into a pdf.
 This time,I choose to resort to reportlab for my solution.</br>
 I based my work on a ReportLab sample file;I was lazy even to change the name(lol).</br>
 
-*test_multibyte_chs2.py——script*
+*test_multibyte_chs2.py——script*</br>
 *facorites.txt——sheet of new words exported from bluedict*
 
 The code was tested on **Qpython1.2.5**&&**ReportLab2.5** on my phone,but you can easily modify it to run it on PC with **ReportLab2.5** and **python2.7** installed.</br>
